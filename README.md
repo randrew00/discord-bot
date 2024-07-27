@@ -1,4 +1,4 @@
-# intelligence bot
+# Discord GPT Bot
 
 *Bot uses OpenAI API
 
